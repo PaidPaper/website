@@ -182,3 +182,4 @@ npm uninstall cypress
 Feel free to check [our documentation](https://github.com/withastro/astro) or jump into our [Discord server](https://astro.build/chat).
 
 Testing the neutral tests 2
+Made repo public
