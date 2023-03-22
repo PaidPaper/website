@@ -170,7 +170,7 @@ If you’d like to remove the `netlify-plugin-cypress` build plugin entirely, 
 ```bash
 npm uninstall -D netlify-plugin-cypress
 ```
-
+1
 And lastly if you’d like to remove Cypress entirely, delete the entire `cypress` folder and the `cypress.config.ts` file. Then remove the dependency using:
 
 ```bash
